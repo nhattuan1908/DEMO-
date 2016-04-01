@@ -1,6 +1,6 @@
 # BT-UDPT-1 - *Name of your app*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Name of your app** là một bài tập 1 tại môn 
 
 Thành viên: **Tên và mã số sinh viên thành viên**
 
@@ -11,7 +11,7 @@ URL: **URL hosting của bài tập**
 Yêu cầu **GIT**:
 
 * [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT trên 1 branch.
+* [*] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
